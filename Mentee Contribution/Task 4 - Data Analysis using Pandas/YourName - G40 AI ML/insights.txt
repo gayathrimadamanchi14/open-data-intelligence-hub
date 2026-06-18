@@ -1,0 +1,5 @@
+1. Dataset contains _30___ rows.
+2. Dataset contains _16___ columns.
+3. Missing values found in ____ columns.
+4. Highest value observed is ____.
+5. Most common category is ____.
