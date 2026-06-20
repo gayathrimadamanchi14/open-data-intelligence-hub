@@ -1,0 +1,11 @@
+Total Rows:
+5
+
+Average Salary:
+41000.0
+
+Maximum Salary:
+55000
+
+Minimum Salary:
+30000
